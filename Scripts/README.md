@@ -6,3 +6,8 @@
 
 1. **[文件夹内容归类](https://github.com/Happykelee/the-study-of-Python/blob/master/Scripts/01_CTorCTC.py)**
     * **2018/09/07 记录<补>**
+
+
+2. **[Radiomic analysis using machine learning](https://github.com/Happykelee/the-study-of-Python/blob/master/Scripts/02_Radiomic-analysis-using-machine-learning)**
+    * **2018/09/07 记录**
+    Radiomic analysis using machine learning methods based the radiomic features extracted on the Radcloud platform(Huiying Medical Technology Co.Ltd, Beijing, mics.radcloud.cn)
