@@ -4,4 +4,4 @@
 
 ## 目录
 
-* [练习小脚本](https://github.com/Happykelee/the-study-of-Python/tree/master/Scripts)
+* [练习小脚本](Scripts)
