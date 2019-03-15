@@ -8,7 +8,7 @@
     * **2018/09/07 记录<补>**
 
 
-2. **[Radiomic analysis using machine learning](02_Radiomic-analysis-using-machine-learning)**
+2. **[Radiomic analysis using machine learning](RadAnalyze)**
     * **2018/09/07 记录**
 
     Radiomic analysis using machine learning methods based the radiomic features extracted on the [Radcloud platform](http://mics.radcloud.cn)(Huiying Medical Technology Co.Ltd, Beijing)
