@@ -4,5 +4,6 @@
 
 ## 目录
 
-* [支持向量机](support_vector_machine.ipynb)
 * [练习小脚本](Scripts)
+* [机器学习](https://github.com/Happykelee/Machine-Learning/tree/master/Python)
+  * [SVM](https://github.com/Happykelee/Machine-Learning/tree/master/Python/SVM)
