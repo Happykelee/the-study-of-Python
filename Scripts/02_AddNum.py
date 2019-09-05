@@ -10,7 +10,7 @@ class AddNum():
     def open(self, img_path):
         self.img = Image.open(img_path)
         self.img_path = os.path.abspath(img_path)
-        return True
+        # return True
 
     def draw(self, num = 1):
         # --Initialize the number--
@@ -36,7 +36,7 @@ class AddNum():
         left, right = self.img_path.rsplit(".", 1)
         new_img_path = left + "_" + num_str + "." + right
         self.img.save(new_img_path)
-        return True
+        # return True
 
 if __name__ == '__main__':
     solver = AddNum()
